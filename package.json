@@ -1,0 +1,8 @@
+{
+  "name": "cinema-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sito del cinema con area amministrativa protetta e catalogo film pubblicabili",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" }
+}
